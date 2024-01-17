@@ -1,2 +1,2 @@
 # testsite
-a test with github pag
+a test with github pages
